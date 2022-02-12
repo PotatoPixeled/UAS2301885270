@@ -1,0 +1,40 @@
+.listorder{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.delete{
+    margin-left: 10px;
+}
+
+.item{
+    margin-right: 10px;
+}
+
+.container{
+
+    border-style: solid;
+    width: 380px;
+    height: auto;
+    border-width: 2px;
+
+    padding: 10px;
+    margin-top: 120px;
+    margin-left: 600px;
+}
+
+.back{
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.button2{
+    background: white;
+    color: black;
+    font-size: 14px;
+    border-style: solid;
+
+}
+

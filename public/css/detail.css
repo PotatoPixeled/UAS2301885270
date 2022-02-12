@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    height: auto;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.right{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.left{
+    margin-top: 50px;
+    margin-left: 50px;
+}

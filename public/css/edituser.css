@@ -1,0 +1,35 @@
+.forms{
+    display: flex;
+    justify-content: center;
+
+    border-style: solid;
+    width: 750px;
+    height: 450px;
+    border-width: 2px;
+
+    padding: 10px;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 25px;
+}
+
+.column{
+    width: 350px;
+    float: left;
+}
+
+.column2{
+    width: 350px;
+    float: left;
+}
+
+.photo{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}

@@ -1,0 +1,19 @@
+.forms{
+    display: flex;
+    justify-content: center;
+
+    border-style: solid;
+    width: 400px;
+    height: 180px;
+    border-width: 2px;
+
+    padding: 10px;
+    padding-top: 30px;
+    margin-top: 50px;
+    margin-left: 550px;
+    font-size: 25px;
+}
+
+.button2{
+    margin-left: 100px;
+}

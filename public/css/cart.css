@@ -1,0 +1,24 @@
+.sub{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.item{
+    margin-left: 400px;
+    font-size: 20px;
+
+}
+.delete{
+    display: inline-block;
+}
+
+.delete-but{
+    background: white;
+    font-size: 16px;
+    border-style: solid;
+    margin-left: 30px;
+}
+
+
